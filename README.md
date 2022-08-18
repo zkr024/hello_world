@@ -44,10 +44,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Based on Nelson [Sakwa on Behance](https://www.behance.net/sakwadesignstudio) design.
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
